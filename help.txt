@@ -1,0 +1,16 @@
+GET => REQUISIÇÃO DO VISUALIZAÇÃO
+POST => REQUISIÇÃO DE ALTERAÇÃO 
+PUT => REQUISIÇÃO DE ATUALIZAÇÃO
+DELETE => REQUISIÇÃO DE DELETE
+
+
+C => CREATE (POST)
+R => READ (GET)
+U => UPDATE (PUT)
+D => DELETE (DELETE)
+
+mongoDB, MySQL, PostGRESQl, Firebase...............................
+
+
+FRONT <=> API <=> DATABASE
+
