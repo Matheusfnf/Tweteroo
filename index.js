@@ -69,7 +69,7 @@ let tweets = [
   },
   {
     username: "bobesponja",
-    tweet: "hahahahahaha ",
+    tweet: "hahahahahahah ",
     avatar:
       "https://s2.glbimg.com/1zleL_SY-4k9yhi9iFGuH1FsSmM=/e.glbimg.com/og/ed/f/original/2020/06/17/bobesponja_EqE9Kg7.jpg",
   },
